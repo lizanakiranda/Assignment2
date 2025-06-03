@@ -7,3 +7,7 @@ I created a python environment called **ds_env** using **venv** and installed th
 4. Create a requirements.txt file using: pip freeze > requirements.txt
 5. This file will contain all packages installed
 6. Then add, commit and push changes to git
+
+# PART 2
+A colab notebook was created for this part of the assignment and below is the link
+https://colab.research.google.com/drive/1PRfW7a1OAmEb5Z4iUTvF4z0mpCMygPb1?usp=sharing
